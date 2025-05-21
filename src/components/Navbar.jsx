@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <section className="flex items-start justify-between w-full p-4 bg-white">
+    <section className="flex items-start justify-between w-full p-4 bg-white px-4 rounded-xl">
       {/* Contenedor de la barra de búsqueda */}
       <div className="relative flex-grow max-w-xs">
         {/* Ícono de lupa */}
