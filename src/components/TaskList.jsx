@@ -11,7 +11,7 @@ export default function TaskList() {
   ];
 
   return (
-    <section className="col-span-2 bg-white p-6 rounded-2xl shadow-md max-w-3xl mx-auto mt-6">
+    <section className="col-span-2 bg-white p-6 rounded-xl shadow-md max-w-3xl mx-auto mt-6">
       <div className="flex justify-between items-center mb-6">
         <h3 className="text-lg font-semibold text-gray-800">
           My Tasks <span className="text-gray-400 text-sm">(05)</span>
