@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import TaskList from "./components/TaskList";
 import CalendarView from "./components/CalendarView";
 import MembersList from "./components/MembersList";
+import AddTask from "./components/Task/AddTask";
 
 function App() {
   return (
@@ -29,6 +30,8 @@ function App() {
       </main>
     </div>
   );
+
+  // return <AddTask />;
 }
 
 export default App;
